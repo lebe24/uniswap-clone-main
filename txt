@@ -1,0 +1,3 @@
+========= Task
+So, I challenge you to change your contract to only allow a set # of NFTs to be minted (for example, maybe you want only 50 NFTs to be minted max!!). It'd be even more epic if on your website it said something like 4/50 NFTs minted so far or something like that to make your user feel super special when they get an NFT!!!
+Hint, you'll need something in solidity called require. And, you'll like also need to create a function like getTotalNFTsMintedSoFar for your web app to call.
