@@ -1,3 +1,3 @@
 # uniswap-clone by Cleverprogrammer youtube course
 
-<img src='uniswapclone.png' />
+<img src='./uniswap.png' />
